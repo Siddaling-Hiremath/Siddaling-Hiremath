@@ -23,7 +23,7 @@
 - ✅ Master **C & C++ + DSA**
 - ✅ Build **Projects** & push regularly on GitHub  
 - 🎯 Get into a **Top MCA College**  
-- 🎯 Land a **High-Paying Job** at Product-Based Companies  
+- 🎯 Land a **High-Paying Job** 
 
 ---
 
